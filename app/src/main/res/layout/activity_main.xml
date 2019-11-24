@@ -13,7 +13,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/expense_tracker_app_800x600"
+        android:background="@drawable/ic_launcher_background"
         android:id="@+id/linear_layout"
         android:orientation="vertical" />
 </LinearLayout>
